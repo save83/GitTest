@@ -1,3 +1,4 @@
+alert("asd");
 !function() {
   console.log("asdsad");
   console.info("asdsad");
